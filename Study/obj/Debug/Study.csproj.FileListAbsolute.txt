@@ -8,3 +8,22 @@ C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Study\Study\obj\Debug\Stud
 C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Study\Study\obj\Debug\Study.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Study\Study\obj\Debug\Study.exe
 C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Study\Study\obj\Debug\Study.pdb
+C:\Users\napolsky\Desktop\study-master\Study\bin\Debug\Study.exe.config
+C:\Users\napolsky\Desktop\study-master\Study\bin\Debug\Study.exe
+C:\Users\napolsky\Desktop\study-master\Study\bin\Debug\Study.pdb
+C:\Users\napolsky\Desktop\study-master\Study\obj\Debug\Study.csprojResolveAssemblyReference.cache
+C:\Users\napolsky\Desktop\study-master\Study\obj\Debug\Study.Form1.resources
+C:\Users\napolsky\Desktop\study-master\Study\obj\Debug\Study.Properties.Resources.resources
+C:\Users\napolsky\Desktop\study-master\Study\obj\Debug\Study.csproj.GenerateResource.Cache
+C:\Users\napolsky\Desktop\study-master\Study\obj\Debug\Study.csproj.CoreCompileInputs.cache
+C:\Users\napolsky\Desktop\study-master\Study\obj\Debug\Study.exe
+C:\Users\napolsky\Desktop\study-master\Study\obj\Debug\Study.pdb
+C:\Users\napolsky.WSISIZ.EDU.PL.005\Desktop\study-master\Study\bin\Debug\Study.exe.config
+C:\Users\napolsky.WSISIZ.EDU.PL.005\Desktop\study-master\Study\obj\Debug\Study.exe
+C:\Users\napolsky.WSISIZ.EDU.PL.005\Desktop\study-master\Study\obj\Debug\Study.pdb
+C:\Users\napolsky.WSISIZ.EDU.PL.005\Desktop\study-master\Study\bin\Debug\Study.exe
+C:\Users\napolsky.WSISIZ.EDU.PL.005\Desktop\study-master\Study\bin\Debug\Study.pdb
+C:\Users\napolsky.WSISIZ.EDU.PL.005\Desktop\study-master\Study\obj\Debug\Study.csprojResolveAssemblyReference.cache
+C:\Users\napolsky.WSISIZ.EDU.PL.005\Desktop\study-master\Study\obj\Debug\Study.Form1.resources
+C:\Users\napolsky.WSISIZ.EDU.PL.005\Desktop\study-master\Study\obj\Debug\Study.Properties.Resources.resources
+C:\Users\napolsky.WSISIZ.EDU.PL.005\Desktop\study-master\Study\obj\Debug\Study.csproj.GenerateResource.Cache

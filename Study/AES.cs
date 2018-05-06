@@ -6,6 +6,17 @@ namespace Study
 {
     public static class AES
     {
+        // Make AES-key based on password given by user
+        public static byte[] CreateKey(string key)
+        {
+            byte[] bytesOfOwnKey = System.Text.Encoding.UTF8.GetBytes(key);
+
+            // Hash the password with SHA256
+            byte[] AESKey = SHA256Managed.Create().ComputeHash(bytesOfOwnKey);
+
+            return AESKey;
+        }
+
         public static byte[] Encrypt(byte[] plainText, string key, string iv)
         {
             return Encrypt(plainText, Base64Decode(key), Base64Decode(iv));

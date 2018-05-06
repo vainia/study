@@ -123,7 +123,7 @@ namespace LibConvert
                 ++col;
             }
             #endregion
-            
+
             // write data into image
             var toWrite = ConvertDataToBytes(this.dataToEncrypt, 3/* to edit -> Available */);
 
@@ -187,9 +187,9 @@ namespace LibConvert
             var dataLengthBits = BitConverter.ToInt32(countDataList, 0);
             var dataLengthBytes = dataLengthBits / 8;
             countDataList = new byte[dataLengthBytes * 2];
-            
+
             int x = 0, y = 1;
-            for (int i = 0; i < countDataList.Length; )
+            for (int i = 0; i < countDataList.Length;)
             {
                 if (x >= imageModified.Width)
                 {
@@ -215,7 +215,7 @@ namespace LibConvert
                 }
                 ++x;
             }
-            
+
             byte[] data = new byte[countDataList.Length / 2];
             for (int i = 0; i < data.Length; ++i)
             {
@@ -224,7 +224,7 @@ namespace LibConvert
             }
             #endregion
 
-            if(isAESEncrypt)
+            if (isAESEncrypt)
             {
                 data = AES.Decrypt(data, key, iv);
             }
